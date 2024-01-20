@@ -1,5 +1,5 @@
 {
-  "name": "@paynow/code",
+  "name": "sgqr-code",
   "version": "0.1.0",
   "description": "Generate SGQR Code for PayNow transactions in Node.js",
   "main": "index.js",
@@ -15,6 +15,7 @@
     "url": "git+https://github.com/mambaz/SGQR.git"
   },
   "keywords": [
+    "SGQR",
     "QR code",
     "PayNow",
     "Singapore",

@@ -2,20 +2,18 @@
 
 Effortlessly generate your Singapore Quick Response Code (SGQR) Code for PayNow transactions. Quickly set predefined amounts and reference numbers for seamless peer-to-peer transfers across major banks and non-financial institutions in Singapore.
 
-## @paynow/code
-
 A Node.js package to generate Singapore Quick Response Code (SGQR) for PayNow transactions.
 
 ## Installation
 
 ```bash
-npm install @paynow/code --save
+npm install sgqr-code --save
 ```
 
 ## Usage
 
 ```bash
-const { getPaynowQRCode } = require('@paynow/code');
+const { getPaynowQRCode } = require('sgqr-code');
 
 // Example Usage
 try {
