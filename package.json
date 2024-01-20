@@ -1,0 +1,33 @@
+{
+  "name": "@paynow/code",
+  "version": "0.1.0",
+  "description": "Generate SGQR Code for PayNow transactions in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^10.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mambaz/SGQR.git"
+  },
+  "keywords": [
+    "QR code",
+    "PayNow",
+    "Singapore",
+    "Payment",
+    "Utility",
+    "Generator",
+    "Node.js",
+    "JavaScript"
+  ],
+  "author": "Shan Chinnananchi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mambaz/SGQR/issues"
+  },
+  "homepage": "https://github.com/mambaz/SGQR#readme"
+}
